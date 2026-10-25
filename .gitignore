@@ -1,0 +1,12 @@
+# 运行时产物
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+server/audio/
+*.mp3.tmp
+.DS_Store
+
+# 本地草稿与项目记忆，永不入库
+.scratch/
+.workbuddy/
