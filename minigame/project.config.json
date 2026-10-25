@@ -1,0 +1,22 @@
+{
+  "description": "凑一桌 · 一个人的语音狼人杀",
+  "compileType": "game",
+  "libVersion": "latest",
+  "appid": "",
+  "projectname": "couyizhuo",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": false,
+    "postcss": false,
+    "minified": false,
+    "showShadowRootInWxmlPanel": false,
+    "packNpmManually": false,
+    "ignoreUploadUnusedFiles": true
+  },
+  "condition": {
+    "game": {
+      "list": []
+    }
+  }
+}
